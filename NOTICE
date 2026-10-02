@@ -1,0 +1,12 @@
+This repository distributes a patch for cc-connect.
+
+The patched software is derived from the upstream project:
+
+  https://github.com/chenhg5/cc-connect
+
+Upstream is distributed under the MIT License. See LICENSE in this repository
+for the license text referenced by the upstream README and npm package metadata.
+
+The rich status card footer changes in `richfooter.patch` are maintained in
+this repository and are intended to be applied on top of a tagged upstream
+release of cc-connect.
