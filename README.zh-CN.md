@@ -4,8 +4,6 @@
 
 ![富文本卡片页脚示例](docs/screenshot.png)
 
-> 截图占位：`docs/screenshot.png` 将另行补充。
-
 ## 视觉效果
 
 在 `card_mode = "rich"` 且已打补丁时，卡片页脚为紧凑的多行信息（若关闭工作目录指示器则为两行）：

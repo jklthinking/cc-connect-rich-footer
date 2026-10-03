@@ -4,8 +4,6 @@ A community patch for [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect
 
 ![Rich card footer example](docs/screenshot.png)
 
-> Screenshot placeholder: `docs/screenshot.png` will be added separately.
-
 ## What it looks like
 
 With `card_mode = "rich"` and the patch applied, the card footer is a compact two-line summary (three lines if you enable the workspace directory):
